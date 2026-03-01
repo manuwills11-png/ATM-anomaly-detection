@@ -1,5 +1,5 @@
 # ATM Failure Intelligence System
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-streamlit-link.streamlit.app)
 ## 📌 Problem Statement
 Automating troubleshooting of digital payment service issues (ATM downtime, technical declines) using historical data.
 

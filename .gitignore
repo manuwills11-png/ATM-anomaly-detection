@@ -3,3 +3,4 @@ __pycache__/
 *.csv
 sample.py
 groupby.ipynb
+severity_config.json
